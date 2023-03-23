@@ -1,16 +1,14 @@
+# Rik Brown
+
+## Software Engineer at Snap, Inc.
+
+Backend engineer turned Android tech lead, building Snap's high volume telemetry SDKs. Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. (Or maybe just building cool new stuff).
+
 ### Hi there 👋
 
-<!--
-**rikbrown/rikbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always open to freelance/part-time and full-time opportunities or just to hear about your project.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Brooklyn, NY, USA
+- 📫 rik@rik.codes
+- 📎 https://www.linkedin.com/in/rikbrown/
+- 🐈 Two cats and a dog. Sorry, what were you asking?
