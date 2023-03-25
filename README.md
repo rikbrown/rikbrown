@@ -11,5 +11,5 @@ I'm always open to freelance/part-time and full-time opportunities or just to he
 - 📍 Brooklyn, NY, USA
 - 📫 rik@rik.codes
 - 📎 [Resume](https://github.com/rikbrown/rikbrown/raw/main/Resume%20-%20Rik%20Brown.pdf) / [LinkedIn](https://www.linkedin.com/in/rikbrown/)
-* 👨‍💻 Mobile/web dev (React/Flutter/Android) and backend SOA stuff.
+* 👨‍💻 Mobile/web dev (React/Flutter/Android) and backend SOA stuff (Java/Kotlin/AWS/Google Cloud and more).
 - 🐈 [Two cats and a dog](https://raw.githubusercontent.com/rikbrown/rikbrown/main/IMG_1244.jpeg). Sorry, what were you asking?
