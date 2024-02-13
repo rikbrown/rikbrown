@@ -8,7 +8,7 @@ Passionate about exploring new languages and tools, being data driven, and ultim
 
 ### Hi there 👋
 
-I'm always open to freelance/part-time opportunities or just to hear about your project.
+I'm always open for contract/part-time opportunities - or just to hear about your project.
 
 - 📍 Brooklyn, NY, USA
 - 📫 rik@rik.codes
