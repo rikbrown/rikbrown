@@ -13,5 +13,5 @@ I'm always open to freelance/part-time opportunities or just to hear about your 
 - 📍 Brooklyn, NY, USA
 - 📫 rik@rik.codes
 - 📎 [LinkedIn](https://www.linkedin.com/in/rikbrown/)
-* 👨‍💻 Mobile/web dev (React/Flutter) and backend SOA stuff (Typescript/Node/Java/Kotlin/AWS/Google Cloud and more).
+* 👨‍💻 Web dev (React) and backend SOA stuff (Typescript/Node/Java/Kotlin/AWS/Google Cloud and more!).
 - 🐈 [Two cats and a dog](https://raw.githubusercontent.com/rikbrown/rikbrown/main/IMG_1244.jpeg). Sorry, what were you asking?
