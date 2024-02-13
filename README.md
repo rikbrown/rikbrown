@@ -2,7 +2,9 @@
 
 ## Software Engineer at District
 
-I build web apps and backends (React, Tailwind, GraphQL/Node/Lambdas/etc, aka mainly Typescript these days) for [District](https://www.district.net): redefining e-commerce. In my past life, I was the lead Android + Web engineer at Snap for their telemetry SDKs (collecting a lot of data about you, efficiently!). Earlier than that I helped make sure that [Amazon's self-driving grocery stores](https://www.amazon.com/b?ie=UTF8&node=16008589011) wouldn't explode if `us-west-2` goes down. Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. (Or maybe just building cool new stuff).
+I build web apps and backends using React, Typescript, Tailwind, GraphQL, Node, Lambda, etc for [District](https://www.district.net). In my past life, I was the lead Android + Web engineer at Snap for their telemetry SDKs (collecting a lot of data about you, efficiently!). Earlier than that I helped make sure that [Amazon's self-driving grocery stores](https://www.amazon.com/b?ie=UTF8&node=16008589011) won't explode if `us-west-2` goes down. 
+
+Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. (Or maybe just building cool new stuff).
 
 ### Hi there 👋
 
