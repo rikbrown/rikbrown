@@ -1,6 +1,6 @@
 # Rik Brown
 
-## Software Engineer at District
+## Founding Software Engineer at District
 
 I build web apps and backends using React, Typescript, Tailwind, GraphQL, Node, Lambda, etc for [District](https://www.district.net). In my past life, I was the lead Android + Web engineer at Snap for their telemetry SDKs (collecting a lot of data about you, efficiently!). Earlier than that I helped make sure that [Amazon's self-driving grocery stores](https://www.amazon.com/b?ie=UTF8&node=16008589011) won't explode if `us-west-2` goes down. 
 
