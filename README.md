@@ -13,5 +13,5 @@ I'm always open for contract/part-time opportunities - or just to hear about you
 - 📍 Brooklyn, NY, USA
 - 📫 rik@rik.codes
 - 📎 [LinkedIn](https://www.linkedin.com/in/rikbrown/)
-* 👨‍💻 These days I prefer Web/mobile dev work (React/Typescript/etc)
+- 👨‍💻 These days I prefer Web/mobile dev work (React/Typescript/etc)
 - 🐈 [Two cats and a dog](https://raw.githubusercontent.com/rikbrown/rikbrown/main/IMG_1244.jpeg). Sorry, what were you asking?
