@@ -2,7 +2,7 @@
 
 ## Founding Software Engineer at District
 
-I build web apps and backends using React, Typescript, Tailwind, GraphQL, Node, AWS, etc for [District](https://www.district.net). In a past life, I was the lead Android/Web engineer for Telemetry at Snap. Earlier than that I helped build infrastructure for scaling and redundancy at [Amazon Go](https://www.amazon.com/b?ie=UTF8&node=16008589011)... and before that I was part of the team responsible for making it harder for you to pirate Prime Video (sorry).
+I build applications with React, Typescript, Tailwind, GraphQL, AWS, etc for [District](https://www.district.net). In a past life, I was the lead engineer for telemetry at Snap(chat) on Web and Android. Before that, I made self-driving grocery stores scale at [Amazon Go](https://www.amazon.com/b?ie=UTF8&node=16008589011) - and annoyed you by building DRM for Prime Video.
 
 Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. (Or maybe just building cool new stuff).
 
