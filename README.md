@@ -6,10 +6,6 @@ I build applications with React, Typescript, Tailwind, GraphQL, AWS, etc for [Di
 
 Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. (Or maybe just building cool new stuff).
 
-### Hi there 👋
-
-I'm always open for contract/part-time opportunities - or just to hear about your project.
-
 - 📍 Brooklyn, NY, USA
 - 📫 rik@rik.codes
 - 📎 [LinkedIn](https://www.linkedin.com/in/rikbrown/)
