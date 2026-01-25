@@ -2,11 +2,13 @@
 
 ## Founding Software Engineer at District
 
-I build applications with React, Typescript, Tailwind, GraphQL, AWS, etc for [District](https://www.district.net). In a past life, I was the lead engineer for telemetry at Snap(chat) on Web and Android. Before that, I made self-driving grocery stores scale at [Amazon Go](https://www.amazon.com/b?ie=UTF8&node=16008589011) - and annoyed you by building DRM for Prime Video.
+I build applications with React, Next.js, Typescript, Tailwind, GraphQL, AWS, etc for [District](https://www.district.net). In a past life, I was the lead for Android/Web telemetry at Snap(chat). Before that, I made self-driving grocery stores scale at [Amazon Go](https://www.amazon.com/b?ie=UTF8&node=16008589011) and made it harder to steal video (DRM, sorry) from Prime Video. 
 
-Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. (Or maybe just building cool new stuff).
+I've lived and worked in London, Bangkok, Seattle, New York City - and now London again.
 
-- 📍 Brooklyn, NY, USA
+Passionate about exploring new languages and tools, being data driven, and ultimately changing the world. Or maybe just building cool stuff.
+
+- 📍 London, UK (often found across the pond in NYC)
 - 📫 rik@rik.codes
 - 📎 [LinkedIn](https://www.linkedin.com/in/rikbrown/)
 - 👨‍💻 These days I prefer Web/mobile dev work (React/Typescript/etc)
