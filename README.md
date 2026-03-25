@@ -13,5 +13,5 @@ Passionate about exploring new languages and tools, being data driven, and ultim
 - 📍 London, UK (often found across the pond in NYC)
 - 📫 rik@rik.codes
 - 📎 [LinkedIn](https://www.linkedin.com/in/rikbrown/)
-- 👨‍💻 These days I prefer Web/mobile dev work (React/Typescript/etc) - but I'm very happy at District.
+- 👨‍💻 I'm a full-stack engineer, but I prefer pixel pushing right now.
 - 🐈 [Two cats and a dog](https://raw.githubusercontent.com/rikbrown/rikbrown/main/IMG_1244.jpeg). Sorry, what were you asking?
